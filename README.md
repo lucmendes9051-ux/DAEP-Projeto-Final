@@ -3,18 +3,18 @@ Markdown
 
 Projeto final de análise de dados do setor industrial utilizando Python. O foco deste trabalho é analisar o **Desempenho Operacional** da fábrica, identificando gargalos nos tempos de produção, paradas e manutenção.
 
-## 📁 Arquivos do Projeto
+##  Arquivos do Projeto
 
 *   `project_Manufacturing Dataset.csv`: Base de dados original (3.000 registros).
 *   `projeto.ipynb`: Jupyter Notebook contendo todo o código da análise, gráficos e insights.
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 *   **Python 3**
 *   **Pandas:** Para limpeza, tratamento de dados nulos (usando mediana) e agrupamentos estatísticos.
 *   **Matplotlib:** Para visualização gráfica dos ofensores de tempo.
 
-## 📊 Estrutura da Análise
+##  Estrutura da Análise
 
 Nossa análise no notebook está dividida em:
 1. **Exploração e Importação:** Carregamento do dataset.
