@@ -1,4 +1,4 @@
-Markdown
+
 #  Análise de Desempenho Operacional na Manufatura
 
 Projeto de análise exploratória de dados focado no desempenho operacional de uma fábrica industrial. O objetivo é analisar tempos de produção, paradas e reprocessos, gerando insights estratégicos para a Engenharia de Produção.
